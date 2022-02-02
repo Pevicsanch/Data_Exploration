@@ -2,7 +2,7 @@
 ## IT Academy - Data Science Itinerary: Numerical-programming
 *S02-T05: Data Exploration*
 
-Data_Exploration: basic exercises to become familiar with Python's pandas library with some beginner's exercices
+Data_Exploration: become familiar with Python's pandas library with some beginner's exercices
 
 Learning objetives:
 
